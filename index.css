@@ -1,0 +1,27 @@
+.colour{
+    background-color: #c7d1da;  
+}
+.head_heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.skills{
+    height: 60vh;
+}
+
+.btns{
+    font-size: 1.5rem;
+    padding: .8rem 4rem;
+    border: 1px solid rgb(94, 94, 94);
+    background-color: #4efd4e;
+    color: white;
+    border-radius: 25px;
+    text-decoration: none;
+    transition: background-color .4s, color .4s;
+}
+
+.btns:hover{
+    background-color: #7cfd7c;
+}
